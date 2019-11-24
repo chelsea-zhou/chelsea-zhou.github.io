@@ -3,7 +3,7 @@ layout: post
 title: My fisrt blog post!
 ---
 
-# Hello world! 
+Hello world! 
 
 I finally had a personal website. I will post everyday about my work reflection, career development, and life explorations!
 
